@@ -1,0 +1,23 @@
+/** BACKGROUNDS**/
+
+body {
+  background: gray;
+}
+.contenedor {
+  background: white;
+}
+header {
+  background: orange
+}
+nav {
+  background: purple;
+}
+table {
+  background: cyan;
+}
+footer {
+  background: orange;
+}
+footer nav {
+  background: transparent;
+}
